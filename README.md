@@ -17,3 +17,5 @@ NOTE:- The above application is up and working as required/mentioned in the prob
 ![Screenshot 2023-12-30 194035](https://github.com/kanhavmathur05/LeadsAssignment/assets/33174389/d1dd9718-3134-49eb-9f9b-8a23259562e2)
 ![Screenshot 2023-12-30 194009](https://github.com/kanhavmathur05/LeadsAssignment/assets/33174389/679c1bf2-34bc-4f21-a3a6-ee87ddd41e2d)
 ![Screenshot 2023-12-30 193946](https://github.com/kanhavmathur05/LeadsAssignment/assets/33174389/b8c6513b-e6ae-48f7-8af2-c5048dc0a46f)
+![Screenshot 2023-12-30 194753](https://github.com/kanhavmathur05/LeadsAssignment/assets/33174389/d934cb0e-3212-4877-97d9-5532a062c899)
+![Screenshot 2023-12-30 194725](https://github.com/kanhavmathur05/LeadsAssignment/assets/33174389/ac07365b-1132-4e28-949a-518257ff468b)
