@@ -1,0 +1,61 @@
+{
+	"info": {
+		"_postman_id": "e06c1643-13d8-43bb-8d3f-e7ca028b77c6",
+		"name": "LeadsAssignment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create Lead",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"leadId\":1713,\r\n    \"firstName\":\"lskdfsldf\",\r\n    \"lastName\":\"skjdfff\",\r\n    \"middleName\":\"kansdf\",\r\n    \"mobileNumber\":\"7641139800\",\r\n    \"gender\":\"Male\",\r\n    \"dateOfBirth\":\"2013-09-09\",\r\n    \"email\":\"skjdf@gmail.com\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/api/leads/create",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"leads",
+						"create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Fetch Leads",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/leads/fetchByMobileNumber/7641139800",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"leads",
+						"fetchByMobileNumber",
+						"7641139800"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
